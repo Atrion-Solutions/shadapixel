@@ -1,7 +1,6 @@
-import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import { Logo, Container } from "../index";
-import { CiMail, CiPhone, CiLocationOn } from "react-icons/ci";
+import { CiMail, CiLocationOn } from "react-icons/ci";
 import { Separator } from "@/components/ui/separator";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { RiTwitterXLine } from "react-icons/ri";
@@ -29,15 +28,11 @@ function Footer() {
               <ul className="font-Inter text-white flex flex-col gap-2 items-center sm:items-start">
                 <li className="flex items-center gap-5 xl:text-lg">
                   <CiLocationOn className="text-primary" size={20} />
-                  7901 4th St N, St Petersburg, Fl 33702
+                  Baridhara D.O.H.S., Dhaka-1206
                 </li>
                 <li className="flex items-center gap-5 xl:text-lg">
                   <CiMail className="text-primary" size={20} />
-                  Info@atrionsolutions.com
-                </li>
-                <li className="flex items-center gap-5 xl:text-lg">
-                  <CiPhone className="text-primary" size={20} />
-                  +1 (850) 988-0052
+                  Info@shadapixel.com
                 </li>
               </ul>
               <div className="flex flex-col items-center sm:items-start">
@@ -71,7 +66,7 @@ function Footer() {
         <div className="grid lg:grid-cols-3 gap-5 py-10">
           <div>
             <p className="text-white text-center lg:text-left">
-              © 2024 Atrion solutions
+              © 2024 Shadapixel by Atrion solutions
             </p>
           </div>
           <div className="flex justify-center">
@@ -127,9 +122,11 @@ function Footer() {
             >
               Privacy Policy
             </Link>
-            <Link 
-            onClick={() => navigateAndScroll("/terms-use")}
-            to={"/terms-use"} className="hover:text-primary">
+            <Link
+              onClick={() => navigateAndScroll("/terms-use")}
+              to={"/terms-use"}
+              className="hover:text-primary"
+            >
               Terms of Use
             </Link>
           </div>

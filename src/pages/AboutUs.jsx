@@ -44,7 +44,7 @@ function AboutUs() {
                 alt=""
               />
               <p className=" mb-10 font-text text-white text-center font-medium text-xl lg:text-2xl">
-                At Atrion Solutions, we believe every business has a unique
+                At Shadapixel by Atrion solutions, we believe every business has a unique
                 story to tell. Our talented team of experts specializes in a
                 diverse range of services designed to elevate your brand in the
                 digital realm.
@@ -109,7 +109,7 @@ function AboutUs() {
               <img src="/our-mission.png" alt="" />
               <div>
                 <p className="font-text text-white lg:text-lg">
-                  At Atrion Solutions, our mission is simple: to bridge the gap
+                  At Shadapixel by Atrion solutions, our mission is simple: to bridge the gap
                   between cutting-edge technology and real-world business needs.
                   We recognized a world where businesses struggled to keep up
                   with the lightning-fast pace of digital evolution, so we chose
@@ -137,7 +137,7 @@ function AboutUs() {
                 </ul>
                 <div className="mb-8 flex flex-col gap-8  font-text  lg:text-lg">
                   <p className="text-white">
-                    Explore the limitless possibilities with Atrion Solutions.
+                    Explore the limitless possibilities with Shadapixel by Atrion solutions.
                     Let us be the catalyst for your digital transformation,
                     guiding you to navigate the future with confidence and
                     creativity. Together, we can shape the digital landscape of

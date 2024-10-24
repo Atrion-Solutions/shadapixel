@@ -297,8 +297,8 @@ function PrivacyPolicy() {
           </p>
           <ul className="mt-2">
             <li>Shada Pixel - by Atrion BD </li>
-            <li> Address </li>
-            <li>St Petersburg, Florida 33702</li>
+            <li> House# 422, Rd# 7 </li>
+            <li>Baridhara D.O.H.S., Dhaka-1206</li>
           </ul>
           <div className="mt-5">
             <p>Email Address:</p>
