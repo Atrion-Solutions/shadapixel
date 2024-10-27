@@ -140,7 +140,7 @@ function ContactForm() {
               Phone No
             </Label>
             <PhoneInput
-              country={"us"}
+              country={"bd"}
               value={phone}
               containerClass="shadcn-input-wrapper"
               onChange={(value) => {

@@ -12,15 +12,15 @@ function ContactUs() {
       <Container>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 pt-5">
           <div className=" text-white border border-[#557078] rounded-lg hover:shadow-custom-blue duration-300 p-3 sm:p-5 backdrop-blur-sm hover:scale-105">
-            <span className="flex justify-center items-center flex-col">
+            <span className="text-center flex justify-center items-center flex-col">
               <CiLocationOn className="text-5xl text-primary" />
-              7901 4th St N, St Petersburg, Fl 33702
+              House# 422, Rd# 7 Baridhara D.O.H.S., Dhaka-1206
             </span>
           </div>
           <div className=" text-white border border-[#557078] rounded-lg hover:shadow-custom-blue duration-300 p-3 sm:p-5 backdrop-blur-sm hover:scale-105">
             <span className="flex justify-center items-center flex-col">
               <CiMail className="text-5xl text-primary" />
-              info@atrionsolutions.com
+              Info@shadapixel.com
             </span>
           </div>
           <div className=" text-white border border-[#557078] rounded-lg hover:shadow-custom-blue duration-300 p-3 sm:p-5 backdrop-blur-sm hover:scale-105">
