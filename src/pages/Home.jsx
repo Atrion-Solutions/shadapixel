@@ -107,7 +107,7 @@ function Home() {
                   </motion.div>
                 </div>
                 <div className="md:pt-5 lg:pt-8">
-                  <h2 className="uppercase text-4xl sm:text-[40px] md:text-[54px] lg:text-7xl xl:text-[90px] text-white font-extrabold  mb-5 text-center sm:text-end">
+                  <h2 className="lowercase text-2xl sm:text-[40px] md:text-[54px] lg:text-7xl xl:text-[90px] text-white font-extrabold  mb-5 text-center sm:text-end">
                     By Atrion bd
                   </h2>
                 </div>

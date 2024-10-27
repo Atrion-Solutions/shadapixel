@@ -304,12 +304,12 @@ function PrivacyPolicy() {
             <p>Email Address:</p>
             <Link
               className="font-medium text-primary underline"
-              to={"mailto:shadapixel@gmail.com.com"}
+              to={"mailto:info@shadapixel.com"}
             >
-              shadapixel@gmail.com
+              info@shadapixel.com
             </Link>
           </div>
-          <div className="mt-5">
+          <div className="mt-5 hidden">
             <p>Phone Number:</p>
             <Link
               className="font-medium text-primary underline"

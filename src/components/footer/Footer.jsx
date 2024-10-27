@@ -4,6 +4,7 @@ import { CiMail, CiLocationOn } from "react-icons/ci";
 import { Separator } from "@/components/ui/separator";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { RiTwitterXLine } from "react-icons/ri";
+import { FaYoutube } from "react-icons/fa6";
 import { ImFacebook } from "react-icons/im";
 import { useNavigateAndScroll } from "../../util/navigate";
 
@@ -28,6 +29,7 @@ function Footer() {
               <ul className="font-Inter text-white flex flex-col gap-2 items-center sm:items-start">
                 <li className="flex items-center gap-5 xl:text-lg">
                   <CiLocationOn className="text-primary" size={20} />
+                  House# 422, Rd# 7<br/>
                   Baridhara D.O.H.S., Dhaka-1206
                 </li>
                 <li className="flex items-center gap-5 xl:text-lg">
@@ -40,23 +42,24 @@ function Footer() {
                   Follow us
                 </p>
                 <div className="flex gap-5">
-                  <Link
+                  {/* <Link
                     className="text-white"
                     target="_blank"
-                    to={`https://atrionsolutions.com/`}
+                    to={`https://shadapixel.com/`}
                   >
                     <FaLinkedinIn className="text-primary" size={30} />
-                  </Link>
-                  <Link target="_blank" to={`https://atrionsolutions.com/`}>
-                    <RiTwitterXLine className="text-primary" size={30} />
-                  </Link>
+                  </Link>*/}
                   <Link
                     className="text-white"
                     target="_blank"
-                    to={`https://atrionsolutions.com/`}
+                    to={`https://www.facebook.com/shadapixel`}
                   >
                     <ImFacebook className="text-primary" size={30} />
                   </Link>
+                  <Link target="_blank" to={`https://www.youtube.com/@shadapixel`}>
+                    <FaYoutube className="text-primary" size={30} />
+                  </Link>
+                  
                 </div>
               </div>
             </div>
@@ -66,7 +69,7 @@ function Footer() {
         <div className="grid lg:grid-cols-3 gap-5 py-10">
           <div>
             <p className="text-white text-center lg:text-left">
-              © 2024 Shadapixel by Atrion solutions
+              © 2024 Shadapixel by Atrion BD
             </p>
           </div>
           <div className="flex justify-center">
