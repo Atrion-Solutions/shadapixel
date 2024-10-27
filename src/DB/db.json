@@ -88,37 +88,37 @@
   "industries": [
     {
       "id": 1,
-      "image": "/industries/Healthcare.svg",
+      "image": "/industries/Healthcare.png",
       "title": "Healthcare",
       "content": "Revolutionizing patient care with secure and efficient digital solutions."
     },
     {
       "id": 2,
-      "image": "/industries/Education.svg",
+      "image": "/industries/Education.png",
       "title": "Education",
       "content": "Transforming learning with innovative e-learning platforms."
     },
     {
       "id": 3,
-      "image": "/industries/Manufacturing.svg",
+      "image": "/industries/Manufacturing.png",
       "title": "Manufacturing",
       "content": "Streamlining operations with advanced automation and data analytics."
     },
     {
       "id": 4,
-      "image": "/industries/Retail.svg",
+      "image": "/industries/Retail.png",
       "title": "Retail",
       "content": "Enhancing customer experiences with omnichannel solutions."
     },
     {
       "id": 5,
-      "image": "/industries/Finance.svg",
+      "image": "/industries/Finance.png",
       "title": "Finance",
       "content": "Securing sensitive data with robust cybersecurity measures."
     },
     {
       "id": 6,
-      "image": "/industries/Hospitality.svg",
+      "image": "/industries/Hospitality.png",
       "title": "Hospitality",
       "content": "Enhancing guest experiences with exceptional hospitality services."
     }

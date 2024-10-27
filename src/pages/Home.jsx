@@ -80,7 +80,13 @@ function Home() {
           </div>
           <div className="space-y-5 md:space-y-0">
             <div className="relative">
-              <img src="/public/hero.svg" alt="shadapixel" />
+              {/* Shadapixel */}
+              {/* <img src="/public/hero.svg" alt="shadapixel" /> */}
+              <div className="text-center">
+                <p className="text-transparent font-extrabold text-6xl sm:text-[130px] md:text-[150px] lg:text-[190px] xl:text-[245px] bg-[url('/header1.jpg')] bg-no-repeat bg-cover bg-clip-text bg-center text">shadapixel</p>
+              </div>
+
+            
               <div className="relative flex flex-col-reverse sm:flex-row items-center sm:items-start justify-between">
                 <img
                   className="absolute hidden sm:block top-0 w-full"

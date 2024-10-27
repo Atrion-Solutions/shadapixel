@@ -191,3 +191,9 @@ div.clientLogoSpan {
   transform-origin: top;
   z-index: 1000;
 }
+
+
+.text{
+  -webkit-text-stroke: 2px #0db8a6;
+  -webkit-text-fill-color: transparent;
+}

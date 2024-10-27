@@ -27,7 +27,7 @@ export default function Industry({ industry }) {
       >
         <div>
           <motion.img
-            className="max-w-[120px]"
+            className="max-w-[80px]"
             src={image}
             alt="health-care-logo"
             initial={{ opacity: 0, x: -50 }}
